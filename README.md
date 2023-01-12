@@ -1,12 +1,23 @@
 # amr_teleop
 
-
 mkdir catkin_ws
+
+
 cd catkin_ws
+
+
 mkdir src
+
+
 cd src
+
+
+
 catkin_init_workspace
+
 cd ..
+
+
 catkin_make
 
 
