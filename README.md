@@ -1,4 +1,4 @@
-# amr_teleop
+# amr_with skid steering 
 
 mkdir catkin_ws
 
